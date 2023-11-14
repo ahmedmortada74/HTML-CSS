@@ -1,0 +1,41 @@
+/* #body{
+    background-color: rgb(182, 124, 49);
+} */
+  #header {
+    width: 100%;
+    height: 60px;
+    background-color: rgb(88, 27, 27);
+   margin: 0;padding: 0;
+   text-align: center;
+  }
+  
+   #links{
+    width: 30%;
+    background-color: rgb(116, 103, 103);
+    float: left;
+  }
+  input:focus{
+    background-color: chartreuse;
+  }
+
+ 
+
+  #content {
+    width: 70%;
+    background-color: rgb(245, 72, 101);
+    float: left;
+  }
+  #titles p
+  {
+    display: inline-block;
+  padding: 12px;
+  margin: 0;
+  border: solid;
+  }
+  
+  /* #content > h2 + p {
+    font-weight: bold;
+    font-size: 12px;
+  }
+   */
+ 

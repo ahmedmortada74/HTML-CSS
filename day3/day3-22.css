@@ -1,0 +1,26 @@
+body{
+    background: rgb(247, 212, 167);
+}
+#habo{
+    position: fixed;
+    background: rgb(37, 34, 34);
+    padding: 30px;
+    width: 100%; 
+    color: brown;
+  
+
+}
+#habo li
+{
+    display: inline-block;
+    padding: 25px; 
+    margin: 0;
+
+}
+#habo li :hover{
+    background-color: green;
+}
+#habo .ahmed
+{
+    background: green;
+}
